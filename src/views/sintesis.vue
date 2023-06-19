@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p.mb-3(data-aos="zoom-in") Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
+    p.mb-5(data-aos="zoom-in") La gestión del mantenimiento de equipos electrónicos es un proceso clave en la planificación y operación de cualquier empresa que utilice tecnología electrónica. Para ello, se utilizan diferentes tipos de mantenimiento, como el preventivo, correctivo, predictivo y proactivo, así como herramientas como diagramas de procesos, flujo y Pareto. Es importante clasificar los equipos electrónicos según su línea, como la blanca, gris y marrón, para facilitar su mantenimiento y servicio al cliente. Además, es necesario tener conocimientos sobre energía eléctrica, diodos, transistores, circuitos integrados y tarjetas de circuitos impresos. Por último, es fundamental tener protocolos y normativas de calidad para ofrecer un servicio posventa de calidad y atención al cliente efectivo.
     
     .row.justify-content-center
       .col-lg-10.mb-5

@@ -42,7 +42,7 @@
 
 
     TabsA.color-primario
-      .tarjeta.color-acento-botones--borde.p-4(titulo="Diagrama de flujos")
+      .tarjeta.color-primario--borde.p-4(titulo="Diagrama de flujos")
         p Es una parte a priori del diagrama de procesos.  El diagrama de flujos es el más utilizado y conocido en las diferentes áreas de operación de la fabricación electrónica y especialmente en la producción y en el mantenimiento. Son bastante usados por la tecnología y se caracterizan porque:
         p Tienen un óvalo como punto de partida y de cierre.
         p Un rectángulo, para indicar acciones.
@@ -59,7 +59,7 @@
               img(src='@/assets/curso/temas/tema1/3.svg', alt='')
               figcaption Nota. Tomado de Huerta (2014). 
 
-      .tarjeta.color-acento-botones--borde.p-4(titulo="Diagrama de flujos")
+      .tarjeta.color-primario--borde.p-4(titulo="Diagrama de flujos")
         p Es un gráfico de barras que ordena las frecuencias de mayor a menor, permitiendo la priorización de los problemas. Muestra la curva de porcentajes acumulados. Se utiliza mucho para observar problemas y buscar la solución a ellos mediante el análisis de la gráfica.  
         p El diagrama de Pareto se basa en el Principio de Pareto, el cual es una herramienta que posibilita la identificación de lo importante y lo no importante. La figura puede mostrar los problemas en la manufacturación de las tarjetas de circuitos impresos comparados con los defectos de la producción en general. Con la curva acumulada, se pueden observar las causas de mayor incidencia en el problema.
         .row

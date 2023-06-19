@@ -76,31 +76,58 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Aparatos eléctricos y electrónicos',
+      referencia:
+        'Ministerio de Medio Ambiente – PNUD (2017). Política Nacional, RAEE. ',
+      tipo: 'Libro.',
+      link:
+        'https://sena4.sharepoint.com/:b:/r/sites/EcosistemaRED/Dctos_Proceso/LP_Tolima/_Tecnologos/224204%20(Des_Pdtos_Electronicos)/3.%20FinalxProducir/Contenidos/CF16/Anexos/CELEX%2032012L0019%20ES%20TXT.pdf?csf=1&web=1&e=ev7bRL',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Parlamento Europeo',
+      referencia:
+        'Parlamento Europeo. (2012).  Sobre residuos de aparatos eléctricos y electrónicos (RAEE). Diario Oficial de la Unión Europea.',
+      tipo: 'Directiva',
+      link:
+        'https://sena4.sharepoint.com/:b:/r/sites/EcosistemaRED/Dctos_Proceso/LP_Tolima/_Tecnologos/224204%20(Des_Pdtos_Electronicos)/3.%20FinalxProducir/Contenidos/CF16/Anexos/RAEE_Pol%C3%ADtica%20nacional.pdf?csf=1&web=1&e=E5M1DA',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: '<em>Mantenimiento</em>',
+      significado:
+        'Acción y efecto de mantener, actividad para conservar el estado óptimo de un equipo eléctrico o electrónico.',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: '<em>Plan</em>',
+      significado:
+        'Desarrollo de un programa u operación con descripción de actividades para llegar a un objetivo, en este caso, el mantenimiento correcto de un equipo.',
+    },
+    {
+      termino: '<em>Productos electrónicos</em>',
+      significado:
+        'Equipos que funcionan basados en electrónica, diodos, transistores, tarjetas de circuitos impresos, que los integran con otros componentes.',
+    },
+    {
+      termino: '<em>Protocolo</em>',
+      significado:
+        'Establecimiento de acciones para cumplir a la letra y obtener el resultado deseado o mantener un procedimiento continuo de un proceso. Está relacionado con protocolos de servicio en el tema de calidad o protocolos de mantenimiento preventivo o correctivo.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia: 'Accounter. (2015). ABC del Estatuto del Consumidor.',
+      link:
+        'https://accounter.co/boletines/abc-del-estatuto-del-consumidor.html',
+    },
+    {
+      referencia:
+        'Huerta, J. (2014). Diagramas de flujo [Figura]. Mantenimiento preventivo y correctivo.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio de Medio Ambiente – PNUD. (2017). Política Nacional, RAEE.',
       link: '',
     },
   ],
@@ -114,9 +141,9 @@ export default {
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
+          nombre: 'Norma Constanza Morales Cruz',
           cargo: 'Responsable de línea de producción',
-          centro: 'Nombre centro de formación',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
       ],
     },
@@ -124,9 +151,35 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Nombre centro de formación',
+          nombre: 'Andrés Aurelio Alarcón Tique ',
+          cargo: 'Experto Técnico ',
+          centro:
+            'Regional Distrito Capital Centro de Electricidad, Electrónica y Telecomunicaciones',
+        },
+        {
+          nombre: 'Miroslava González Hernández ',
+          cargo: 'Diseñador y Evaluador Instruccional ',
+          centro: 'Regional Distrito Capital Centro de Gestión Industrial',
+        },
+        {
+          nombre: 'Juan Gilberto Giraldo Cortes',
+          cargo: 'Diseñador Instruccional',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Carolina Coca Salazar ',
+          cargo: 'Revisora metodológica y pedagógica  ',
+          centro: 'Regional Distrito Capital Centro de Diseño y Metrología ',
+        },
+        {
+          nombre: 'Darío González ',
+          cargo: 'Corrección de estilo ',
+          centro: 'Regional Distrito Capital Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Viviana Esperanza Herrera Quiñonez',
+          cargo: 'Asesora Metodológica',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
       ],
     },
@@ -134,19 +187,34 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador web',
-          centro: 'Nombre centro de formación',
+          nombre: 'Luis Fernando Botero Mendoza',
+          cargo: 'Diseñador Web',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Sebastian Trujillo Afanador',
           cargo: 'Desarrollador Fullstack',
-          centro: 'Nombre centro de formación',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Nombre centro de formación',
+          nombre: 'Gilberto Junior Rodríguez Rodríguez',
+          cargo: 'Storyboard e Ilustración',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Nelson Iván Vera Briceño',
+          cargo: 'Producción audiovisual',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Oleg Litvin',
+          cargo: 'Animador ',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Cristian Mauricio Otálora Clavijo',
+          cargo: 'Actividad Didáctica',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
       ],
     },
@@ -154,14 +222,14 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre validador',
+          nombre: 'Javier Mauricio Oviedo',
           cargo: 'Validación y vinculación en plataforma LMS',
-          centro: 'Nombre centro formación',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Nombre validador',
+          nombre: 'Gilberto Naranjo Farfán',
           cargo: 'Validación de contenidos accesibles',
-          centro: 'Nombre centro formación',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
       ],
     },
