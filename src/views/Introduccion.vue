@@ -21,7 +21,7 @@
           p.mb-0(data-aos="fade-up") También le permitirá conocer la terminología del mantenimiento electrónico, teorías para configurarlo, gráficas para revisarlo, analizar los resultados y corregir los problemas que se presenten o puedan presentarse. Todo lo anterior con el fin de aplicar controles posteriormente al plan de mantenimiento, de acuerdo con su clasificación.
           br
           br
-    p.mt-3(data-aos="fade-up") Finalmente, conocerá los tipos de equipos electrónicos que existen en el mercado para visualizar los objetivos del negocio o del mantenimiento para los mismos.
+    p.mt-3(data-aos="fade-left") Finalmente, conocerá los tipos de equipos electrónicos que existen en el mercado para visualizar los objetivos del negocio o del mantenimiento para los mismos.
 </template>
 
 <script>

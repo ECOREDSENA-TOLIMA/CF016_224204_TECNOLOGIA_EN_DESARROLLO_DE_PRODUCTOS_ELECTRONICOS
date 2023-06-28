@@ -33,6 +33,12 @@ export default {
         titulo: 'Equipos electro-electrónicos',
         desarrolloContenidos: true,
       },
+      {
+        nombreRuta: 'tema3',
+        numero: '3',
+        titulo: 'Atención al cliente',
+        desarrolloContenidos: true,
+      },
     ],
     subMenu: [
       {
@@ -94,22 +100,22 @@ export default {
   ],
   glosario: [
     {
-      termino: '<em>Mantenimiento</em>',
+      termino: 'Mantenimiento',
       significado:
         'Acción y efecto de mantener, actividad para conservar el estado óptimo de un equipo eléctrico o electrónico.',
     },
     {
-      termino: '<em>Plan</em>',
+      termino: 'Plan',
       significado:
         'Desarrollo de un programa u operación con descripción de actividades para llegar a un objetivo, en este caso, el mantenimiento correcto de un equipo.',
     },
     {
-      termino: '<em>Productos electrónicos</em>',
+      termino: 'Productos electrónicos',
       significado:
         'Equipos que funcionan basados en electrónica, diodos, transistores, tarjetas de circuitos impresos, que los integran con otros componentes.',
     },
     {
-      termino: '<em>Protocolo</em>',
+      termino: 'Protocolo',
       significado:
         'Establecimiento de acciones para cumplir a la letra y obtener el resultado deseado o mantener un procedimiento continuo de un proceso. Está relacionado con protocolos de servicio en el tema de calidad o protocolos de mantenimiento preventivo o correctivo.',
     },
@@ -137,12 +143,12 @@ export default {
       autores: [
         {
           nombre: 'Claudia Patricia Aristizabal',
-          cargo: 'Responsable del equipo',
+          cargo: 'Responsable del Equipo',
           centro: 'Dirección General',
         },
         {
           nombre: 'Norma Constanza Morales Cruz',
-          cargo: 'Responsable de línea de producción',
+          cargo: 'Responsable de Línea de Producción',
           centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
       ],
@@ -168,12 +174,12 @@ export default {
         },
         {
           nombre: 'Carolina Coca Salazar ',
-          cargo: 'Revisora metodológica y pedagógica  ',
+          cargo: 'Revisora Metodológica y Pedagógica  ',
           centro: 'Regional Distrito Capital Centro de Diseño y Metrología ',
         },
         {
           nombre: 'Darío González ',
-          cargo: 'Corrección de estilo ',
+          cargo: 'Corrección de Estilo ',
           centro: 'Regional Distrito Capital Centro de Diseño y Metrología',
         },
         {
@@ -203,7 +209,7 @@ export default {
         },
         {
           nombre: 'Nelson Iván Vera Briceño',
-          cargo: 'Producción audiovisual',
+          cargo: 'Producción Audiovisual',
           centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
         {
@@ -223,12 +229,12 @@ export default {
       autores: [
         {
           nombre: 'Javier Mauricio Oviedo',
-          cargo: 'Validación y vinculación en plataforma LMS',
+          cargo: 'Validación y Vinculación en Plataforma LMS',
           centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
         {
           nombre: 'Gilberto Naranjo Farfán',
-          cargo: 'Validación de contenidos accesibles',
+          cargo: 'Validación de Contenidos Accesibles',
           centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
       ],
