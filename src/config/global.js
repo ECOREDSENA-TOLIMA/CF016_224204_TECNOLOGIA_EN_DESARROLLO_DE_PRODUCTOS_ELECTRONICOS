@@ -74,6 +74,11 @@ export default {
         download: 'downloads/material.zip',
       },
       {
+        icono: 'fas fa-download',
+        titulo: 'Descargar PDF',
+        download: 'downloads/CFA_16_224204.pdf',
+      },
+      {
         icono: 'far fa-registered',
         titulo: 'Créditos',
         nombreRuta: 'creditos',
@@ -87,7 +92,7 @@ export default {
         'Ministerio de Medio Ambiente – PNUD (2017). Política Nacional, RAEE. ',
       tipo: 'Libro.',
       link:
-        'https://sena4.sharepoint.com/:b:/r/sites/EcosistemaRED/Dctos_Proceso/LP_Tolima/_Tecnologos/224204%20(Des_Pdtos_Electronicos)/3.%20FinalxProducir/Contenidos/CF16/Anexos/CELEX%2032012L0019%20ES%20TXT.pdf?csf=1&web=1&e=ev7bRL',
+        'https://www.minambiente.gov.co/wp-content/uploads/2021/10/Politica_RAEE.pdf',
     },
     {
       tema: 'Parlamento Europeo',
