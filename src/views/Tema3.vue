@@ -115,7 +115,7 @@
               .cajon.color-primario
                 .row.justify-content-center.align-items-center.py-0.mt-1
                   .col-12.mt-4.mb-4.px-5
-                    p.mb-lg-0.lg-mb-5 La Superintendencia de Industria y Comercio es la entidad que atiende las quejas de los consumidores respecto de las empresas o establecimientos, por fallas en el servicio, mala calidad, entrega diferente de producto respecto del ofrecido, entre muchas otras, como engaños, fraudes, etc .
+                    p.mb-lg-0.lg-mb-5 La Superintendencia de Industria y Comercio es la entidad que atiende las quejas de los consumidores respecto de las empresas o establecimientos, por fallas en el servicio, mala calidad, entrega diferente de producto respecto del ofrecido, entre muchas otras, como engaños, fraudes, etc.
     
     p.mb-3(data-aos="zoom-in") Ahora bien, los términos de garantía legal hacen parte del contrato y/o factura de compra del producto o del servicio a ser prestado por la empresa. Con la firma del contrato o factura, se aceptan los términos de garantías legales. 
     p.mb-3(data-aos="zoom-in") La garantía está encaminada a proteger al consumidor (comprador) frente al fabricante y/o comercializador por daños que pueda ocasionar el producto o servicio a los equipos, instalaciones o personas del cliente. 
@@ -142,7 +142,7 @@
               .cajon.color-primario
                 .row.justify-content-center.align-items-center.py-0.mt-1
                   .col-12.mt-4.mb-4.px-5
-                    p.mb-lg-0.lg-mb-5 La tarea normativa es de carácter interpretativa e integradora, tiene el principio de encuadrar la protección efectiva de la autónoma e independiente potestad del consumidor de disponer de sus derechos, pero también la responsabilidad de cumplir con estas facultades .
+                    p.mb-lg-0.lg-mb-5 La tarea normativa es de carácter interpretativa e integradora, tiene el principio de encuadrar la protección efectiva de la autónoma e independiente potestad del consumidor de disponer de sus derechos, pero también la responsabilidad de cumplir con estas facultades.
 
 
 

@@ -20,7 +20,8 @@
 
     p.mt-3(data-aos="fade-up") La siguiente figura expone cómo, sin importar el lugar, usted está rodeado de estos equipos, mediante algunos ejemplos de contexto específicos.
 
-
+    .titulo-sexto.color-acento-contenido.mb-0.offset-lg-3.mt-5.mb-5(data-aos="fade-left")
+      p.titulo.pb-0.mb-0 <b>Figura 5.</b> <i>Equipos de acuerdo al contexto</i>
     .row.justify-content-center.align-items-center
       .col-lg-4.col-12(data-aos="zoom-out-right")
         figure
@@ -79,10 +80,10 @@
                 tbody
                   tr
                     td Grandes electrodomésticos
-                    td Lavodoras, secadoras, neveras, refrigeradores, equipos de aire acondicionado y calefacción, ventiladores, cocinas, hornos eléctricos, hornos microondas, etc.
+                    td Lavadoras, secadoras, neveras, refrigeradores, equipos de aire acondicionado y calefacción, ventiladores, cocinas, hornos eléctricos, hornos microondas, etc.
                     td Celda 3 Electrodomésticos grandes de la línea blanca.
           .col-md-12.mb-4.mb-md-0
-            p Los grandes electrodomésticos son fabricados especialmente para uso en el hogar y, sin embargo, varios de ellos son utilizados en el comercio y en la industria especializada, como lavanderías, servicio médico, gastronomía y panadería, investigación.  En esta categoría, según la norma, se encuentran:        
+            p Las grandes superficies y almacenes especializados se encargan de su comercialización. El sistema de garantías puede ser prestado por estos comerciantes o por el fabricante directamente. 
             p Los grandes electrodomésticos actualmente utilizan tarjetas de circuitos impresos para control electrónico en su operación y mantenimiento, varios de ellos tienen la opción de conectarse a Internet a través de la metodología Internet de las cosas.
 
         .row(titulo="Pequeños electrodomésticos")
@@ -109,7 +110,7 @@
             
         .row(titulo="Equipos de informática y telecomunicaciones")
           .col-md-12.mb-4.mb-md-0
-            p Los equipos de informática y telecomunicaciones son una variedad especial de los equipos electrónicos con alto uso y alto volumen de equipos, con diferentes fabricantes en América del Norte, Europa, Japón China y Corea del Sur; para su mantenimiento, se requiere recibir capacitación del fabricante o distribuidor autorizado que se encarga de la comercialización y garantías a nivel nacional.  
+            p Los equipos de informática y telecomunicaciones son una variedad especial de los equipos electrónicos con alto uso y alto volumen de equipos, con diferentes fabricantes en América del Norte, Europa, Japón, China y Corea del Sur; para su mantenimiento, se requiere recibir capacitación del fabricante o distribuidor autorizado que se encarga de la comercialización y garantías a nivel nacional.  
             p Estas capacitaciones requieren tener las habilidades para comprender el idioma inglés y posteriormente utilizar el protocolo de fallas, aplicando programas de reconocimiento de fallas suministrados por el fabricante, el cual también revisa periodos de garantía normal o garantía extendida y aquellas garantías de por vida para ciertas fallas como soporte del fabricante. En esta categoría, según la norma, se encuentran: 
           .col-lg-10.col-12.mb-4
             .titulo-sexto.color-acento-contenido.mb-0.offset-lg-3
@@ -147,7 +148,7 @@
                 tbody
                   tr
                     td Aparatos electrónicos de consumo y panel fotovoltaicos
-                    td Radios, televisores, reproductores de VCR/DVD/CD, cámaras de video, instrumentos musicales, amplificadores de sonido, etc
+                    td Radios, televisores, reproductores de VCR/DVD/CD, cámaras de video, instrumentos musicales, amplificadores de sonido, etc.
                     td Electrónica de consumo de la línea marrón
           .col-md-12.mb-4.mb-md-0
             p Para su mantenimiento, también es importante la capacitación técnica recibida por el fabricante u operador autorizado. Tienen protocolos de revisión de fallas y de mantenimiento preventivo y correctivo. 
