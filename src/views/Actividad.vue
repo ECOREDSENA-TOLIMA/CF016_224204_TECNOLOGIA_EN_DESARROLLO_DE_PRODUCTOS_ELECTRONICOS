@@ -10,12 +10,12 @@
             img(src="@/assets/template/completar.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Explorando la planificación del mantenimiento en productos electrónicos
+          h2 Planificación del mantenimiento de productos electrónicos
         p.mb-4 #[b Objetivo] Al finalizar la actividad, serán capaces de identificar y comprender los conceptos clave relacionados con la planificación del mantenimiento de productos electrónicos.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Actividad didáctica completar espacios
+              p.fw-bold.mb-0 Completar espacios
             .col-auto
               a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
                 span Realizar

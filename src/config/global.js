@@ -94,14 +94,6 @@ export default {
       link:
         'https://www.minambiente.gov.co/wp-content/uploads/2021/10/Politica_RAEE.pdf',
     },
-    {
-      tema: 'Parlamento Europeo',
-      referencia:
-        'Parlamento Europeo. (2012).  Sobre residuos de aparatos eléctricos y electrónicos (RAEE). Diario Oficial de la Unión Europea.',
-      tipo: 'Directiva',
-      link:
-        'https://sena4.sharepoint.com/:b:/r/sites/EcosistemaRED/Dctos_Proceso/LP_Tolima/_Tecnologos/224204%20(Des_Pdtos_Electronicos)/3.%20FinalxProducir/Contenidos/CF16/Anexos/RAEE_Pol%C3%ADtica%20nacional.pdf?csf=1&web=1&e=E5M1DA',
-    },
   ],
   glosario: [
     {
